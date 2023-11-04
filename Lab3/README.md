@@ -1,0 +1,1 @@
+The objectives of this laboratory are to study the operation of the original scheduler in xv6-riscv; analyze the processes that benefit/harm from this design decision; finally, develop an implementation by replacing the scheduling policy with our own, which must adhere to certain conditions and analyze its impact on processes compared to the original scheduler.
